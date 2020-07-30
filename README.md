@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cozy](https://github.com/DylanBarratt/DylanBarratt/blob/master/hk1RwEFt_400x400.png?raw=true)
+![cozy](https://github.com/DylanBarratt/DylanBarratt/blob/master/hk1RwEFt_400x400.png?raw=true =100x100)
