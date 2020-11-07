@@ -2,4 +2,4 @@
 #### 🔧 I love messing around with code and seeing it turn into something useful!
 
 
-<!--START_SECTION:activity-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DylanBarratt)](https://github.com/anuraghazra/github-readme-stats)
